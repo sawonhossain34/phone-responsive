@@ -78,3 +78,18 @@ pa
 .camera-in{
     margin: 30px;
 }
+/* nav style end */
+/* online shop logo style start */
+.online-container{
+    width: 1110px;
+    height: 90px;
+    border: 1px solid rgb(93, 93, 202);
+    padding:36px 62px;
+    margin-top:170px;
+}
+.online-logo{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* online shop logo style end */
